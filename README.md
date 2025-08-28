@@ -151,7 +151,8 @@ pip install -r requirements.txt
 
 -   Name: *Kavya Oza*  
 -   Email: *kavyaoza54@gmail.com*  
--   GitHub: [yourusername](https://github.com/kavyaoza)  
--   LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-link)  
+-   GitHub: (https://github.com/kavyaoza)  
+-   LinkedIn: (www.linkedin.com/in/kavya-oza-a64220295)  
 
 ---
+
