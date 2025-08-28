@@ -122,14 +122,14 @@ pip install -r requirements.txt
 ## 📸 Screenshots
 
 ### 🔹 Home Page (Before Upload)
-![Home Page](assets/screenshot_home.png)
+![Home Page](assests/screenshot_home.png)
 
 ### 🔹 Uploaded Tic Tac Toe Game
-![Result Page](assets/screenshot_result.png)
+![Result Page](assests/screenshot_result.png)
 
 
 ### 🔹 Uploaded Light Theme
-![Light Theme Page](assets/screenshot_theme.png)
+![Light Theme Page](assests/screenshot_theme.png)
 
 ---
 
@@ -155,4 +155,5 @@ pip install -r requirements.txt
 -   LinkedIn: (www.linkedin.com/in/kavya-oza-a64220295)  
 
 ---
+
 
