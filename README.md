@@ -134,7 +134,7 @@ pip install -r requirements.txt
 ---
 
 ## 🎥 Demo Video
-👉 [Watch Demo Video]([https://www.linkedin.com](https://www.linkedin.com/posts/kavya-oza-a64220295_codsoft-internship-python-activity-7367160671521693696-7Yh8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEdmz-wB9BJG6LYEIQ_YaQ39UdhoqyMOS6g))  
+👉 [Watch Demo Video](https://www.linkedin.com/posts/kavya-oza-a64220295_codsoft-internship-python-activity-7367160671521693696-7Yh8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEdmz-wB9BJG6LYEIQ_YaQ39UdhoqyMOS6g)  
 
 
 ---
@@ -151,10 +151,11 @@ pip install -r requirements.txt
 
 -   Name: *Kavya Oza*  
 -   Email: *kavyaoza54@gmail.com*  
--   GitHub: (https://github.com/kavyaoza)  
--   LinkedIn: (www.linkedin.com/in/kavya-oza-a64220295)  
+-   GitHub: [Github Profile](https://github.com/kavyaoza)  
+-   LinkedIn: [LinkedIn Profile](www.linkedin.com/in/kavya-oza-a64220295)  
 
 ---
+
 
 
 
